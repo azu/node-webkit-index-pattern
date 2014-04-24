@@ -6,6 +6,7 @@ A example of [Differences of JavaScript contexts · rogerwang/node-webkit Wiki](
 * `node-context.js` is Node context
 * `hello.js` is Node context
 
+Difference between `index.js` and `node-context.js` ,`hello.js` is referenced from somewhere.
 
 ## Installation
 
