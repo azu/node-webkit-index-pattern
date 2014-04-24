@@ -1,0 +1,25 @@
+{
+    "name": "webkit-index-pattern",
+    "description": "node-webkit index.js pattern",
+    "version": "0.0.1",
+    "homepage": "https://github.com/azu/node-webkit-index-pattern/",
+    "repository": {
+        "url": "git://github.com/azu/node-webkit-index-pattern.git"
+    },
+    "main": "index.html",
+    "scripts": {
+        "start": "nodewebkit",
+        "test": "mocha test/*.js"
+    },
+    "directories": {
+        "test": "test/"
+    },
+    "author": "azu",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/azu/node-webkit-index-pattern/issues"
+    },
+    "devDependencies": {
+        "nodewebkit": "^0.8.6"
+    }
+}
